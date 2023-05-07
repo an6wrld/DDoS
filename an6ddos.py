@@ -135,4 +135,4 @@ for loader_num in range(create_thread):
 clear_text()
 print(banner)
 status_code = True
-print(f"{Fore.LIGHTRED_EX}TRYING SENT{Fore.WHITE} . . .{Fore.RESET}")
+print(f"{Fore.LIGHTRED_EX}TRYING SENT. . .{Fore.RESET}")
